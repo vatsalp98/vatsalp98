@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vatsalparmar98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vatsalparmar98" height="30" width="40" /></a>
+<a href="https://twitter.com/vatsalparmar98" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="vatsalparmar98" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/vatsalparmar98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vatsalparmar98" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/vatsalparmar98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vatsalparmar98" height="30" width="40" /></a> -->
 <a href="https://discord.gg/Minato-Sama#1628" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Minato-Sama#1628" height="30" width="40" /></a>
