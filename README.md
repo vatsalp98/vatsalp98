@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vatsalparmar98" target="blank"><img src="https://img.shields.io/twitter/follow/vatsalparmar98?logo=twitter&style=for-the-badge" alt="vatsalparmar98" /></a> </p>
 
-- 🌱 I’m currently working at Saloneverywhere.com
+- 🌱 I’m currently working at SalonEverywhere.com
 
 - 👨‍💻 All of my projects are available at [https://vatsalp98.github.io](https://vatsalp98.github.io)
 
