@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsal Parmar</h1>
 <h3 align="center">A passionate Python, and Android App developer at Simon Fraser University !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalp98&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalp98" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalp98&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalp98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalp98" alt="vatsalp98" /></a> </p>
 
