@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working at SalonEverywhere.com
 
-- 👨‍💻 All of my projects are available at [https://vatsalp98.github.io](https://vatsalp98.github.io)
+- 👨‍💻 All of my projects are available at [https://vatsaal.ca](https://vatsaal.ca)
 
 - 📫 How to reach me **vparmar@sfu.ca**
 
