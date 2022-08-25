@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vatsal Parmar</h1>
-<h3 align="center">A passionate Python, and Mobile App developer From Simon Fraser University !</h3>
+<h3 align="center">A passionate Software developer From Simon Fraser University !</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalp98&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalp98" /> </p>
 
