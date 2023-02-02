@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsaal Parmar</h1>
 <h3 align="center">A passionate Software developer located in Vancouver!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalp98&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="vatsalp98" /> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="vp98"></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalp98&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="vatsalp98" /></p>
 
 <!-- <p align="center"> <a href="https://twitter.com/vatsalparmar98" target="blank"><img src="https://img.shields.io/twitter/follow/vatsalparmar98?logo=twitter&style=for-the-badge" alt="vatsalparmar98" /></a> </p> -->
 
