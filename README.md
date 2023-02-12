@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalp98&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="vatsalp98" /></p>
 
+<p align="center">Software Developer by day, superhero by code 💻👨‍💻 Saving the world from buggy software one line at a time 🦸‍♂️ Constantly improving my skills and taking on new challenges 🚀 #codinglife #programmerproblems #neverstoplearning #programmerforlife #AWS #Flutter #Python #TypeScript #NextJS</p>
+
 <!-- <p align="center"> <a href="https://twitter.com/vatsalparmar98" target="blank"><img src="https://img.shields.io/twitter/follow/vatsalparmar98?logo=twitter&style=for-the-badge" alt="vatsalparmar98" /></a> </p> -->
 
 - 🌱 I’m currently working on Freelance Projects
