@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalp98&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="vatsalp98" /></p>
 
-<p align="center">Software Developer by day, superhero by code 💻👨‍💻 Saving the world from buggy software one line at a time 🦸‍♂️ Constantly improving my skills and taking on new challenges 🚀 #codinglife #programmerproblems #neverstoplearning #programmerforlife #AWS #Flutter #Python #TypeScript #NextJS</p>
+<p align="center">As a dedicated Software Developer, I strive to tackle complex challenges and improve systems by writing clean, efficient code. Constantly honing my skills, I am passionate about delivering reliable software solutions and staying at the forefront of technology. With expertise in AWS, Flutter, Python, TypeScript, and Next.js, I am committed to continuous learning and growth in the field.</p>
 
 <!-- <p align="center"> <a href="https://twitter.com/vatsalparmar98" target="blank"><img src="https://img.shields.io/twitter/follow/vatsalparmar98?logo=twitter&style=for-the-badge" alt="vatsalparmar98" /></a> </p> -->
 
