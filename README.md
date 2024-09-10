@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vatsaal Parmar</h1>
+<h1 align="center">Hi 👋, I'm Vatsal Parmar</h1>
 <h3 align="center">A passionate Software developer located in Vancouver!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalp98&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="vatsalp98" /></p>
