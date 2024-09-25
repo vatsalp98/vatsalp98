@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on Freelance Projects
 
-- 👨‍💻 All of my projects are available at [https://vatsaal.ca](https://vatsaal.ca)
+- 👨‍💻 All of my projects are available at [https://vatsaal.pro](https://vatsaal.pro)
 
 - 📫 How to reach me **vparmar@sfu.ca**
 
